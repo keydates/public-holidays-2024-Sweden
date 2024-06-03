@@ -1,0 +1,93 @@
+{
+  "product": "Sweden Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-19T12:00:00",
+      "endDate": "2024-04-19T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "purple",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-22T12:00:00",
+      "endDate": "2024-04-22T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "green",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "May Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "yellow",
+      "description": "International Workers' Day"
+    },
+    {
+      "title": "National Day of Sweden",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-06T12:00:00",
+      "endDate": "2024-06-06T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of Swedish national identity"
+    },
+    {
+      "title": "Midsummer's Eve",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-21T12:00:00",
+      "endDate": "2024-06-21T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "green",
+      "description": "Traditional Swedish celebration of the summer solstice"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2024",
+      "style": "deepPurple",
+      "description": "Traditional day for giving gifts to those less fortunate"
+    }
+  ]
+}
